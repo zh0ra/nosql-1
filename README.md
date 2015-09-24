@@ -1,35 +1,28 @@
 # Technologie NoSQL
 
-TODO: Osobne tabelki dla stacjonarnych i niestacjonarnych.
+Terminarz rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 
-Terminy rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
+| zadanie |                      | stacjonarne | niestacjonarne |
+|---------|--------------------- |-------------|----------------|
+| 1.      | Neo4j                | 22.10.2015  | 24.10.2015     |
+| 2       | EDA                  | 19.11.2015  | 27.11.2015     |
+| 3.      | Aggregation Pipeline | 17.12.2015  |  8.01.2016     |
+| 4.      | MapReduce            | 14.01.2016  |  8.01.2016     |
 
-| zadanie |                      | termin stacjonarne |
-|---------|--------------------- |------------|
-| 0.      | Neo4j                | 25.10.2014 |
-| 1 a-c   | EDA                  | 15.11.2014 |
-| 1 d.    | GeoJSON              | 29.11.2014 |
-| 2.      | Aggregation Pipeline |  6.12.2014 |
-| 3*.     | MapReduce            | 10.01.2015 |
-
-
-## Zaliczenie
-
-Dane należy wpisać w pliku [Zaliczenie.md](Zaliczenie.md) według schematu:
-
-    1. [Nazwisko, Imię](link do repo z zadaniem **Neo4j**).
-       [Tytuł 1](link do repo z zadaniem **EDA** + **GeoJSON**),
-       [Tytuł 2](link do repo z zadaniem **Agregacje**).
+*Uwaga:* Za nierozliczenie się z zadania w terminie ocena zostanie
+obniżona o jeden stopień.
 
 
-## Egzamin
+## Zaliczenie i Egzamin
 
 > A good demo is disproportionately valuable in big data science.<br>
 > — [Storytelling](http://en.wikipedia.org/wiki/Storytelling)
 
-Dane należy wpisać według schematu (całość w jednym wierszu):
+Link do **prywatnego** repozytorium z rozwiązaniami zadań należy wpisać odpowiednio
+w plikach [Zaliczenie.md](Zaliczenie.md) i [Egzamin.md](Egzamin.md)
+w jednym wierszu według schematu:
 
-    1. Nazwisko, Imię. [Tytuł](link do repo z zadaniem 3).
+    1. [Nazwisko, Imię](link do prywatnego repo z rozwiązaniami zadań).
 
 
 ## Simple Rules for Reproducible Computations
@@ -47,7 +40,8 @@ Provide public access to scripts, runs, and results:
     i.e. have an idea for a graph or an analysis?
     automate its generation
 1. Use a markup, for example
-   [**Markdown**](http://daringfireball.net/projects/markdown/syntax),
+   [**Markdown**](http://daringfireball.net/projects/markdown/syntax), or
+   [**AsciiDoc**](http://asciidoctor.org)
    to create reports for analysis and presentation output products.
 
 Plus two more rules:
