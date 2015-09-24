@@ -22,7 +22,7 @@ Link do **prywatnego** repozytorium z rozwiązaniami zadań należy wpisać odpo
 w plikach [Zaliczenie.md](Zaliczenie.md) i [Egzamin.md](Egzamin.md)
 w jednym wierszu według schematu:
 
-    1. [Nazwisko, Imię](link do prywatnego repo z rozwiązaniami zadań).
+    1. [Nazwisko, Imię](link do prywatnego repo z rozwiązaniami zadań)
 
 
 ## Simple Rules for Reproducible Computations
