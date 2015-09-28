@@ -9,9 +9,6 @@ Terminarz rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 | 3.      | Aggregation Pipeline | 17.12.2015  |  8.01.2016     |
 | 4.      | MapReduce            | 14.01.2016  |  8.01.2016     |
 
-*Uwaga:* Za nierozliczenie się z zadania w terminie ocena zostanie
-obniżona o jeden stopień.
-
 
 ## Zaliczenie i Egzamin
 
