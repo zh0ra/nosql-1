@@ -7,7 +7,7 @@ Terminarz rozliczania się z [zadań](http://wbzyl.inf.ug.edu.pl/nosql/zadania):
 | 1.      | Neo4j                | dodatkowe   | dodatkowe      |
 | 2       | EDA                  | 19.11.2015  | 27.11.2015     |
 | 3.      | Aggregation Pipeline | 17.12.2015  |  8.01.2016     |
-| 4.      | MapReduce            | 14.01.2016  |  8.01.2016     |
+| 4.      | MapReduce            | dodatkowe   | dodatkowe      |
 
 
 ## Zaliczenie i Egzamin
