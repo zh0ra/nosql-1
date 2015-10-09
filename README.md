@@ -45,3 +45,30 @@ Plus two more rules:
 
 1. Record all intermediate results, when possible in standardized formats.
 1. Connect textual statements to underlying results.
+
+
+## Bardzo duże pliki z danymi
+
+Spakowany plik _RC_2015-01.bz2_ zajmuje na dysku 5_452_413_560 B,
+czyli ok. 5.5 GB. Każda linijka pliku to jeden obiekt JSON, komentarz
+z serwisu Reddit, z tekstem komentarza, autorem, itd.
+Wszystkich komentarzy/JSON-ów powinno być 53_851_542.
+
+```bash
+bunzip2 --stdout RC_2015-01.bz2 | head -1 | jq .
+time bunzip2 --stdout RC_2015-01.bz2 | rl --count 1000 > RC_2015-01_1000.json
+# real	 ∞ s
+# user	 ∞ s
+# sys	0m12 s
+```
+
+Plik _primer-dataset.json_ informacje o restauracjach w Nowym Jorku.
+
+```bash
+wget https://raw.githubusercontent.com/mongodb/docs-assets/primer-dataset/dataset.json
+cat dataset.json | gzip --stdout > primer-dataset.json.gz
+rm dataset.json
+
+gunzip -c primer-dataset.json.gz | shuf -n 1
+gunzip -c primer-dataset.json.gz | rl   -c 1
+```
