@@ -60,6 +60,7 @@ time bunzip2 --stdout RC_2015-01.bz2 | rl --count 1000 > RC_2015-01_1000.json
 # real	 ∞ s
 # user	 ∞ s
 # sys	0m12 s
+time bunzip2 -c RC_2015-01.bz2 | mongoimport --drop --host 127.0.0.1 -d test -c reddit
 ```
 
 Plik _primer-dataset.json_ informacje o restauracjach w Nowym Jorku.
