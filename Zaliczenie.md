@@ -14,7 +14,7 @@
 1. Pawłowicz Oskar
 1. Polnik Aleksander
 1. Pranszke Tomasz
-1. Sikora Jacek
+1. [Sikora Jacek](https://github.com/jaresh/nosql)
 1. Słowikowska Sylwia
 1. Wolf Tomasz
 1. Zhorniak Oleksandr
