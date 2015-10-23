@@ -12,7 +12,7 @@
 1. Maziarz Paulina
 1. Mielniczuk Małgorzata
 1. Pawłowicz Oskar
-1. Polnik Aleksander
+1. [Polnik, Aleksander](https://github.com/mralexx/nosql)
 1. Pranszke Tomasz
 1. [Sikora Jacek](https://github.com/jaresh/nosql)
 1. Słowikowska Sylwia
