@@ -15,7 +15,7 @@
 1. [Polnik, Aleksander](https://github.com/mralexx/nosql)
 1. [Pranszke Tomasz](https://github.com/tpranszke/nosql)
 1. [Sikora Jacek](https://github.com/jaresh/nosql)
-1. Słowikowska Sylwia
+1. [Słowikowska Sylwia](https://github.com/sslowikowska/nosql)
 1. Wolf Tomasz
 1. Zhorniak Oleksandr
 
