@@ -9,7 +9,7 @@
 1. Jasiński Remigiusz
 1. Kulewicz Wojciech
 1. Leyk Szymon
-1. Maziarz Paulina
+1. [Maziarz, Paulina](https://github.com/pmaziarz/solutions-nosql)
 1. [Mielniczuk, Małgorzata](https://github.com/Gosiamek/NoSQL.git)
 1. [Pawowicz, Oskar](https://github.com/Oski91/no_sql.git)
 1. [Polnik, Aleksander](https://github.com/mralexx/nosql)
