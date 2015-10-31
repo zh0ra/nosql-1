@@ -6,7 +6,7 @@
 1. [Bzyl, Włodek](https://github.com/egzamin/solutions)
 1. Bołt Aleksander
 1. [Czerwiński, Mateusz](https://github.com/mtczerwinski/red-nosql)
-1. Jasiński Remigiusz
+1. [Jasiński Remigiusz](https://github.com/rjasinski/nosql)
 1. Kulewicz Wojciech
 1. Leyk Szymon
 1. [Maziarz, Paulina](https://github.com/pmaziarz/solutions-nosql)
