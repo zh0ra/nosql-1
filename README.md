@@ -65,8 +65,8 @@ Wszystkich komentarzy/JSON-ów powinno być 53_851_542.
 ```bash
 bunzip2 --stdout RC_2015-01.bz2 | head -1 | jq .
 time bunzip2 --stdout RC_2015-01.bz2 | rl --count 1000 > RC_2015-01_1000.json
-# real	 ∞ s
-# user	 ∞ s
+# real   ∞ s
+# user   ∞ s
 # sys	0m12 s
 time bunzip2 -c RC_2015-01.bz2 | mongoimport --drop --host 127.0.0.1 -d test -c reddit
 # 2015-10-09T19:49:35.698+0200	test.reddit	29.5 GB
@@ -76,6 +76,9 @@ time bunzip2 -c RC_2015-01.bz2 | mongoimport --drop --host 127.0.0.1 -d test -c 
 # user	82m21.155s
 # sys	2m58.977s
 ```
+
+![RC mongoimport](images/RC_mongoimport_WiredTiger.png)
+
 
 Plik _primer-dataset.json_ informacje o restauracjach w Nowym Jorku.
 
