@@ -72,9 +72,9 @@ time bunzip2 -c RC_2015-01.bz2 | mongoimport --drop --host 127.0.0.1 -d test -c 
 # 2015-10-09T19:49:35.698+0200	test.reddit	29.5 GB
 # 2015-10-09T19:49:35.698+0200	imported 53851542 documents
 
-# real	50m31.021s
-# user	82m21.155s
-# sys	2m58.977s
+# real  38m40.629s
+# user  56m37.200s
+# sys   1m17.074s
 ```
 
 ![RC mongoimport](images/RC_mongoimport_WiredTiger.png)
